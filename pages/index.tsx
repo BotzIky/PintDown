@@ -300,13 +300,13 @@ export default function Home() {
                 <a href="mailto:support@botzaku.eu.org" className="text-gray-600 hover:text-blue-600 transition-colors">
                   <IconMail size={24} />
                 </a>
-                <a href="https://instagram.com/iikyynd_04" className="text-gray-600 hover:text-pink-600 transition-colors">
+                <a href="https://instagram.com/botzaku" className="text-gray-600 hover:text-pink-600 transition-colors">
                   <IconBrandInstagram size={24} />
                 </a>
-                <a href="https://twitter.com/iky_ynd" className="text-gray-600 hover:text-blue-400 transition-colors">
+                <a href="https://twitter.com/botz_aku" className="text-gray-600 hover:text-blue-400 transition-colors">
                   <IconBrandTwitter size={24} />
                 </a>
-                <a href="https://t.me/iky_kiezie" className="text-gray-600 hover:text-blue-500 transition-colors">
+                <a href="https://t.me/BotzAku" className="text-gray-600 hover:text-blue-500 transition-colors">
                   <IconBrandTelegram size={24} />
                 </a>
                 <a href="https://github.com/BotzIky" className="text-gray-600 hover:text-gray-900 transition-colors">
